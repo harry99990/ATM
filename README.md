@@ -34,6 +34,7 @@
 
 ## 🧩 사용 화면
 ### 프로그램 실행
+![Image](https://github.com/user-attachments/assets/587a2179-d1c1-4097-82c9-7c71d477ccf1)
 ---
 
 ## 🐛 에러 처리
